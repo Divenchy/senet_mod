@@ -1,0 +1,120 @@
+# Blender 4.2.1 LTS MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl Apopis
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd /home/weoweo/Downloads/apep-apophis.jpg
+
+newmtl Pawns_picture
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd /home/weoweo/Downloads/depiction-of-ramses-iis-family.jpg
+
+newmtl Poliigon_MetalGoldPaint_7253_2K
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns /home/weoweo/Poliigon/Library/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Roughness.jpg
+map_refl /home/weoweo/Poliigon/Library/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Metallic.jpg
+map_Bump -bm 1.000000 /home/weoweo/Poliigon/Library/Poliigon_MetalGoldPaint_7253/2K/Poliigon_MetalGoldPaint_7253_Normal.jpg
+
+newmtl Poliigon_StoneQuartzite_8060_2K
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Poliigon_StoneQuartzite_8060_2K.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns /home/weoweo/Poliigon/Library/Poliigon_StoneQuartzite_8060/2K/Poliigon_StoneQuartzite_8060_Roughness.jpg
+map_refl /home/weoweo/Poliigon/Library/Poliigon_StoneQuartzite_8060/2K/Poliigon_StoneQuartzite_8060_Metallic.jpg
+map_Bump -bm 1.000000 /home/weoweo/Poliigon/Library/Poliigon_StoneQuartzite_8060/2K/Poliigon_StoneQuartzite_8060_Normal.jpg
+
+newmtl Poliigon_WoodVeneerOak_7760_2K
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Poliigon_WoodVeneerOak_7760_2K.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns /home/weoweo/Poliigon/Library/Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Roughness.jpg
+map_refl /home/weoweo/Poliigon/Library/Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Metallic.jpg
+map_Bump -bm 1.000000 /home/weoweo/Poliigon/Library/Poliigon_WoodVeneerOak_7760/2K/Poliigon_WoodVeneerOak_7760_Normal.jpg
+
+newmtl Poliigon_WoodVeneerOak_7760_2K_tinted
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Ra
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd /home/weoweo/Downloads/ra.jpeg
+
+newmtl WickerWeavesBrownRattan001_2K
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl WickerWeavesBrownRattan001_2K.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_refl /home/weoweo/Poliigon/Library/WickerWeavesBrownRattan001/WickerWeavesBrownRattan001_REFL_2K.jpg
+map_Bump -bm 1.000000 /home/weoweo/Poliigon/Library/WickerWeavesBrownRattan001/WickerWeavesBrownRattan001_NRM_2K.jpg
