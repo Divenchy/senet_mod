@@ -1,7 +1,12 @@
 # Documentation
 
 ## Mythology
+The story of the game is based on Egyptian mythology and is altered slightly in the purpose of 
+the game.
 
+Apopis mythological background - https://www.britannica.com/topic/Apopis-Egyptian-god
+
+Ra and Apopis - https://www.worldhistory.org/Apophis/
 
 ### Images
 
